@@ -1,5 +1,5 @@
 # VectorBorneDiseasePrediction
-Vector bord disease prediction based on patient symptoms using an ensemble of CatBoots, XGBoost and LGBM.  
+Vector borne disease prediction based on patient symptoms using an ensemble of CatBoots, XGBoost and LGBM.  
   
 The model predicts these 11 diseases:
 - Chikungunya
